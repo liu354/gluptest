@@ -1,0 +1,17 @@
+{
+  "name": "gluptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-hash": "^4.2.2",
+    "map-stream": "0.0.7"
+  }
+}
